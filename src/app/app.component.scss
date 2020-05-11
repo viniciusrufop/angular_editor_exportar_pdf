@@ -1,0 +1,12 @@
+:host ::ng-deep .ck-editor__editable_inline { min-height: 500px; }
+
+// .container-A4{width:842px;min-height: 1191px;font-family: "fontRoboto",sans-serif;color: #656565; }
+.container-A4{width:595px;min-height: 842px;font-family: "fontRoboto",sans-serif;color: #656565; }
+
+// .vr-width { width: 842px; }
+.vr-width { width: 595px; }
+
+@font-face {
+  font-family: "fontRoboto";
+  src: url("./../assets/fonts/Roboto-Regular.ttf") format("truetype");
+}
